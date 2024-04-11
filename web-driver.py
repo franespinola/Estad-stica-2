@@ -19,7 +19,8 @@ print(rankings_generales)
 
 df = pd.DataFrame(rankings_generales)
 print(df)
-
+df.to_csv('rankings_generales.csv',index=False)
+df.to_excel('rankings_generales.xlsx',index=False)
 
 
 
