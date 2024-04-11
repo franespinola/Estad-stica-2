@@ -1,101 +1,101 @@
-rank,title
-1,Avatar
-2,Avengers: Endgame
-3,Avatar: The Way of Water
-4,Titanic
-5,Star Wars Ep. VII: The Force Awakens
-6,Avengers: Infinity War
-7,Spider-Man: No Way Home
-8,Jurassic World
-9,The Lion King
-10,The Avengers
-11,Furious 7
-12,Top Gun: Maverick
-13,Frozen II
-14,Barbie
-15,Avengers: Age of Ultron
-16,The Super Mario Bros. Movie
-17,Black Panther
-18,Star Wars Ep. VIII: The Last Jedi
-19,Harry Potter and the Deathly Hallows:…
-20,Jurassic World: Fallen Kingdom
-21,Frozen
-22,Beauty and the Beast
-23,Incredibles 2
-24,The Fate of the Furious
-25,Iron Man 3
-26,Minions
-27,Captain America: Civil War
-28,Spider-Man: Far From Home
-29,Aquaman
-30,Captain Marvel
-31,Transformers: Dark of the Moon
-32,The Lord of the Rings: The Return of …
-33,Skyfall
-34,Transformers: Age of Extinction
-35,The Dark Knight Rises
-36,Toy Story 4
-37,Star Wars: The Rise of Skywalker
-38,Toy Story 3
-39,Pirates of the Caribbean: Dead Man’…
-40,Joker
-41,Jurassic Park
-42,Rogue One: A Star Wars Story
-43,Aladdin
-44,Pirates of the Caribbean: On Stranger…
-45,Despicable Me 3
-46,Star Wars Ep. I: The Phantom Menace
-47,Alice in Wonderland
-48,Finding Dory
-49,The Hobbit: An Unexpected Journey
-50,Jurassic World: Dominion
-51,Zootopia
-52,The Dark Knight
-53,The Lion King
-54,Despicable Me 2
-55,Oppenheimer
-56,Harry Potter and the Sorcerer’s Stone
-57,Jumanji: Welcome to the Jungle
-58,Pirates of the Caribbean: At World’…
-59,The Hobbit: The Desolation of Smaug
-60,The Jungle Book
-61,Doctor Strange in the Multiverse of M…
-62,Harry Potter and the Deathly Hallows:…
-63,The Hobbit: The Battle of the Five Ar…
-64,Minions: The Rise of Gru
-65,Harry Potter and the Order of the Pho…
-66,Finding Nemo
-67,Shrek 2
-68,Harry Potter and the Half-Blood Prince
-69,The Lord of the Rings: The Two Towers
-70,Chang jin hu
-71,Spider-Man 3
-72,The Lord of the Rings: The Fellowship…
-73,Ice Age: Dawn of the Dinosaurs
-74,The Secret Life of Pets
-75,Harry Potter and the Goblet of Fire
-76,Ice Age: Continental Drift
-77,Bohemian Rhapsody
-78,Spectre
-79,Spider-Man: Homecoming
-80,Harry Potter and the Chamber of Secrets
-81,Batman v Superman: Dawn of Justice
-82,Guardians of the Galaxy Vol 2
-83,The Hunger Games: Catching Fire
-84,Venom
-85,Black Panther: Wakanda Forever
-86,Inside Out
-87,Thor: Ragnarok
-88,Star Wars Ep. III: Revenge of the Sith
-89,Guardians of the Galaxy Vol 3
-90,"Ni Hao, Li Huan Ying"
-91,Transformers: Revenge of the Fallen
-92,Zhan Lang 2
-93,"The Twilight Saga: Breaking Dawn, Part 2"
-94,Inception
-95,Spider-Man
-96,Wonder Woman
-97,Independence Day
-98,Fantastic Beasts and Where to Find Them
-99,Shrek the Third
-100,E.T. the Extra-Terrestrial
+Rank,Released Worldwide,Title,Theatrical Distributor,Genre,Source,Production Method,Creative Type,Production Budget,Opening Weekend Theaters,Maximum Theaters,Theatrical Engagements,Opening Weekend Revenue,Domestic box officce,Inf Adj Domestic Box Office,International Box Office,Worldwide Box Office
+1,2009,Avatar,20th Century Fox,Action,Original Screenplay,Animation/Live Action,Science Fiction,"$237,000,000","3,452","3,461","51,391","$77,025,481","$785,221,649","$1,089,388,693","$2,138,484,377","$2,923,706,026"
+2,2019,Avengers: Endgame,Walt Disney,Action,Based on Comic/Graphic Novel,Animation/Live Action,Super Hero,"$400,000,000","4,662","4,662","37,780","$357,115,007","$858,373,000","$1,010,181,328","$1,930,539,285","$2,788,912,285"
+3,2022,Avatar: The Way of Water,20th Century Studios,Action,Original Screenplay,Animation/Live Action,Science Fiction,"$460,000,000","4,202","4,340","48,351","$134,100,226","$684,075,767","$693,596,368","$1,633,438,619","$2,317,514,386"
+4,1997,Titanic,Paramount Pictures,Drama,Original Screenplay,Live Action,Historical Fiction,"$200,000,000","2,674","3,265","93,184","$28,638,131","$674,460,013","$1,480,871,432","$1,548,588,773","$2,223,048,786"
+5,2015,Star Wars Ep. VII: The Force Awakens,Walt Disney,Adventure,Original Screenplay,Animation/Live Action,Science Fiction,"$306,000,000","4,134","4,134","37,852","$247,966,675","$936,662,225","$1,191,447,782","$1,127,953,592","$2,064,615,817"
+6,2018,Avengers: Infinity War,Walt Disney,Action,Based on Comic/Graphic Novel,Animation/Live Action,Super Hero,"$300,000,000","4,474","4,474","34,406","$257,698,183","$678,815,482","$803,252,566","$1,369,544,272","$2,048,359,754"
+7,2021,Spider-Man: No Way Home,Sony Pictures,Action,Based on Comic/Graphic Novel,Animation/Live Action,Super Hero,"$200,000,000","4,336","4,336","63,588","$260,138,569","$814,115,070","$854,207,728","$1,093,721,184","$1,907,836,254"
+8,2015,Jurassic World,Universal,Action,Based on Fiction Book/Short Story,Live Action,Science Fiction,"$215,000,000","4,274","4,291","36,528","$208,806,270","$652,306,625","$834,139,853","$1,017,657,016","$1,669,963,641"
+9,2019,The Lion King,Walt Disney,Adventure,Remake,Animation/Live Action,Kids Fiction,"$260,000,000","4,725","4,802","40,962","$191,770,759","$543,638,043","$639,783,632","$1,102,468,736","$1,646,106,779"
+10,2012,The Avengers,Walt Disney,Action,Based on Comic/Graphic Novel,Animation/Live Action,Super Hero,"$225,000,000","4,349","4,349","37,645","$207,438,708","$623,357,910","$844,195,760","$891,742,301","$1,515,100,211"
+11,2015,Furious 7,Universal,Action,Original Screenplay,Live Action,Contemporary Fiction,"$190,000,000","4,004","4,022","27,789","$147,187,040","$353,007,020","$451,413,481","$1,158,979,344","$1,511,986,364"
+12,2022,Top Gun: Maverick,Paramount Pictures,Action,Original Screenplay,Live Action,Contemporary Fiction,"$170,000,000","4,735","4,751","69,377","$126,707,459","$718,732,821","$735,796,748","$749,254,398","$1,467,987,219"
+13,2019,Frozen II,Walt Disney,Musical,Based on Folk Tale/Legend/Fairytale,Digital Animation,Kids Fiction,"$150,000,000","4,440","4,440","38,297","$130,263,358","$477,373,578","$561,730,837","$974,279,738","$1,451,653,316"
+14,2023,Barbie,Warner Bros.,Comedy,Based on Toy,Live Action,Contemporary Fiction,"$151,000,000","4,243","4,337","41,093","$162,022,044","$636,238,421","$636,238,421","$797,194,408","$1,433,432,829"
+15,2015,Avengers: Age of Ultron,Walt Disney,Action,Based on Comic/Graphic Novel,Animation/Live Action,Super Hero,"$365,000,000","4,276","4,276","30,109","$191,271,109","$459,005,868","$586,961,233","$936,311,111","$1,395,316,979"
+16,2023,The Super Mario Bros. Movie,Universal,Action,Based on Game,Digital Animation,Kids Fiction,"$100,000,000","4,343","4,371","40,227","$146,361,865","$574,934,330","$574,934,330","$786,744,473","$1,361,678,803"
+17,2018,Black Panther,Walt Disney,Action,Based on Comic/Graphic Novel,Live Action,Super Hero,"$200,000,000","4,020","4,084","40,236","$202,003,951","$700,059,566","$828,391,008","$636,434,754","$1,336,494,320"
+18,2017,Star Wars Ep. VIII: The Last Jedi,Walt Disney,Adventure,Original Screenplay,Animation/Live Action,Science Fiction,"$262,000,000","4,232","4,232","28,185","$220,009,584","$620,181,382","$743,422,283","$711,453,759","$1,331,635,141"
+19,2011,Harry Potter and the Deathly Hallows:…,Warner Bros.,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$125,000,000","4,375","4,375","26,153","$169,189,427","$381,193,157","$518,159,921","$931,250,693","$1,312,443,850"
+20,2018,Jurassic World: Fallen Kingdom,Universal,Action,Based on Fiction Book/Short Story,Live Action,Science Fiction,"$170,000,000","4,475","4,485","30,489","$148,024,610","$417,719,760","$494,294,079","$890,603,542","$1,308,323,302"
+21,2013,Frozen,Walt Disney,Musical,Based on Folk Tale/Legend/Fairytale,Digital Animation,Kids Fiction,"$150,000,000",1,"3,742","50,666","$243,390","$400,953,009","$530,936,873","$873,429,519","$1,274,382,528"
+22,2017,Beauty and the Beast,Walt Disney,Musical,Remake,Animation/Live Action,Fantasy,"$160,000,000","4,210","4,210","35,923","$174,750,616","$504,014,165","$605,716,019","$764,683,318","$1,268,697,483"
+23,2018,Incredibles 2,Walt Disney,Adventure,Original Screenplay,Digital Animation,Kids Fiction,"$200,000,000","4,410","4,413","40,116","$182,687,905","$608,581,744","$720,143,929","$634,223,615","$1,242,805,359"
+24,2017,The Fate of the Furious,Universal,Action,Original Screenplay,Live Action,Contemporary Fiction,"$250,000,000","4,310","4,329","24,612","$98,786,705","$225,764,765","$271,320,419","$1,009,769,249","$1,235,534,014"
+25,2013,Iron Man 3,Walt Disney,Action,Based on Comic/Graphic Novel,Animation/Live Action,Super Hero,"$200,000,000","4,253","4,253","26,382","$174,144,585","$408,992,272","$542,304,631","$806,400,000","$1,215,392,272"
+26,2015,Minions,Universal,Adventure,Spin-Off,Digital Animation,Kids Fiction,"$74,000,000","4,301","4,311","33,712","$115,718,405","$336,045,770","$429,724,013","$821,225,989","$1,157,271,759"
+27,2016,Captain America: Civil War,Walt Disney,Action,Based on Comic/Graphic Novel,Live Action,Super Hero,"$250,000,000","4,226","4,226","25,150","$179,139,142","$408,084,349","$508,572,167","$743,815,237","$1,151,899,586"
+28,2019,Spider-Man: Far From Home,Sony Pictures,Action,Based on Comic/Graphic Novel,Live Action,Super Hero,"$160,000,000","4,634","4,634","32,717","$92,579,212","$390,532,085","$459,599,985","$741,575,437","$1,132,107,522"
+29,2018,Aquaman,Warner Bros.,Action,Based on Comic/Graphic Novel,Animation/Live Action,Super Hero,"$160,000,000","4,125","4,184","31,526","$67,873,522","$335,061,807","$395,605,216","$796,787,895","$1,131,849,702"
+30,2019,Captain Marvel,Walt Disney,Action,Based on Comic/Graphic Novel,Animation/Live Action,Super Hero,"$175,000,000","4,310","4,310","34,019","$153,433,423","$426,829,839","$502,317,212","$702,746,255","$1,129,576,094"
+31,2011,Transformers: Dark of the Moon,Paramount Pictures,Action,Based on TV,Animation/Live Action,Science Fiction,"$195,000,000","4,088","4,107","23,342","$97,852,865","$352,390,543","$479,037,835","$771,403,536","$1,123,794,079"
+32,2003,The Lord of the Rings: The Return of …,New Line,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$94,000,000","3,703","3,703","35,419","$72,629,713","$379,021,990","$671,823,592","$742,364,991","$1,121,386,981"
+33,2012,Skyfall,Sony Pictures,Action,Based on Fiction Book/Short Story,Live Action,Contemporary Fiction,"$200,000,000","3,505","3,526","28,830","$88,364,714","$304,360,277","$411,972,425","$806,166,704","$1,110,526,981"
+34,2014,Transformers: Age of Extinction,Paramount Pictures,Action,Based on TV,Animation/Live Action,Science Fiction,"$210,000,000","4,233","4,233","22,124","$100,038,390","$245,439,076","$323,847,392","$858,614,996","$1,104,054,072"
+35,2012,The Dark Knight Rises,Warner Bros.,Action,Based on Comic/Graphic Novel,Live Action,Super Hero,"$230,000,000","4,404","4,404","32,481","$160,887,295","$448,139,099","$606,901,937","$634,089,008","$1,082,228,107"
+36,2019,Toy Story 4,Walt Disney,Adventure,Original Screenplay,Digital Animation,Kids Fiction,"$200,000,000","4,575","4,575","38,194","$120,908,065","$434,038,008","$510,800,188","$638,779,956","$1,072,817,964"
+37,2019,Star Wars: The Rise of Skywalker,Walt Disney,Adventure,Original Screenplay,Animation/Live Action,Science Fiction,"$275,000,000","4,406","4,406","29,704","$177,383,864","$515,202,542","$605,999,942","$557,565,455","$1,072,767,997"
+38,2010,Toy Story 3,Walt Disney,Adventure,Original Screenplay,Digital Animation,Kids Fiction,"$200,000,000","4,028","4,028","33,699","$110,307,189","$415,004,880","$567,015,538","$653,874,642","$1,068,879,522"
+39,2006,Pirates of the Caribbean: Dead Man’…,Walt Disney,Adventure,Based on Theme Park Ride,Live Action,Historical Fiction,"$225,000,000","4,133","4,133","34,395","$135,634,554","$423,315,812","$696,693,807","$642,863,913","$1,066,179,725"
+40,2019,Joker,Warner Bros.,Thriller/Suspense,Based on Comic/Graphic Novel,Live Action,Contemporary Fiction,"$55,000,000","4,374","4,374","32,875","$96,202,337","$335,451,311","$394,773,539","$728,633,935","$1,064,085,246"
+41,1993,Jurassic Park,Universal,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Science Fiction,"$63,000,000","2,404","2,778","51,636","$50,159,460","$415,404,543","$1,003,158,330","$643,049,687","$1,058,454,230"
+42,2016,Rogue One: A Star Wars Story,Walt Disney,Adventure,Spin-Off,Animation/Live Action,Science Fiction,"$200,000,000","4,157","4,157","29,371","$155,081,681","$533,539,991","$659,851,605","$521,543,605","$1,055,083,596"
+43,2019,Aladdin,Walt Disney,Adventure,Based on Movie,Animation/Live Action,Fantasy,"$182,000,000","4,476","4,476","35,706","$91,500,929","$355,559,216","$418,441,956","$691,028,297","$1,046,587,513"
+44,2011,Pirates of the Caribbean: On Stranger…,Walt Disney,Adventure,Based on Theme Park Ride,Live Action,Historical Fiction,"$379,000,000","4,155","4,164","25,026","$90,151,958","$241,071,802","$327,711,731","$804,642,000","$1,045,713,802"
+45,2017,Despicable Me 3,Universal,Adventure,Original Screenplay,Digital Animation,Kids Fiction,"$75,000,000","4,529","4,535","35,489","$72,434,025","$264,624,300","$318,021,168","$768,185,357","$1,032,809,657"
+46,1999,Star Wars Ep. I: The Phantom Menace,20th Century Fox,Adventure,Original Screenplay,Animation/Live Action,Science Fiction,"$115,000,000","2,970","3,126","47,092","$64,810,970","$474,544,677","$973,562,724","$552,500,000","$1,027,044,677"
+47,2010,Alice in Wonderland,Walt Disney,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$200,000,000","3,728","3,739","27,013","$116,101,023","$334,191,110","$456,600,774","$691,300,000","$1,025,491,110"
+48,2016,Finding Dory,Walt Disney,Adventure,Original Screenplay,Digital Animation,Kids Fiction,"$200,000,000","4,305","4,305","32,649","$135,060,273","$486,295,561","$606,042,329","$538,710,564","$1,025,006,125"
+49,2012,The Hobbit: An Unexpected Journey,Warner Bros.,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$200,000,000","4,045","4,100","27,719","$84,617,303","$303,003,568","$409,239,868","$711,934,977","$1,014,938,545"
+50,2022,Jurassic World: Dominion,Universal,Action,Original Screenplay,Animation/Live Action,Science Fiction,"$165,000,000","4,676","4,697","33,015","$145,075,625","$376,851,080","$385,798,165","$627,153,512","$1,004,004,592"
+51,2016,Zootopia,Walt Disney,Adventure,Original Screenplay,Digital Animation,Kids Fiction,"$150,000,000","3,827","3,959","38,728","$75,063,401","$341,268,248","$425,303,081","$661,194,330","$1,002,462,578"
+52,2008,The Dark Knight,Warner Bros.,Action,Based on Comic/Graphic Novel,Live Action,Super Hero,"$185,000,000","4,366","4,366","39,170","$158,411,483","$534,235,491","$801,569,700","$465,004,537","$999,240,028"
+53,1994,The Lion King,Walt Disney,Adventure,Original Screenplay,Hand Animation,Kids Fiction,"$79,300,000",2,"2,624","60,238","$1,586,753","$421,785,283","$979,252,839","$564,408,500","$986,193,783"
+54,2013,Despicable Me 2,Universal,Adventure,Original Screenplay,Digital Animation,Kids Fiction,"$76,000,000","3,997","4,003","33,528","$84,227,980","$368,065,385","$488,036,774","$607,151,450","$975,216,835"
+55,2023,Oppenheimer,Universal,Drama,Based on Factual Book/Article,Live Action,Dramatization,"$100,000,000","3,610","3,761","37,937","$82,455,420","$329,862,540","$329,862,540","$640,644,276","$970,506,816"
+56,2001,Harry Potter and the Sorcerer’s Stone,Warner Bros.,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$125,000,000","3,672","3,672","36,120","$90,294,621","$317,871,467","$604,358,191","$645,771,108","$963,642,575"
+57,2017,Jumanji: Welcome to the Jungle,Sony Pictures,Adventure,Original Screenplay,Live Action,Science Fiction,"$90,000,000","3,765","3,849","43,252","$36,169,328","$404,508,916","$481,782,735","$557,123,891","$961,632,807"
+58,2007,Pirates of the Caribbean: At World’…,Walt Disney,Adventure,Based on Theme Park Ride,Live Action,Historical Fiction,"$300,000,000","4,362","4,362","26,611","$114,732,820","$309,420,425","$484,818,620","$651,576,067","$960,996,492"
+59,2013,The Hobbit: The Desolation of Smaug,Warner Bros.,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$250,000,000","3,903","3,928","25,150","$73,645,197","$258,241,522","$342,225,923","$701,116,914","$959,358,436"
+60,2016,The Jungle Book,Walt Disney,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$175,000,000","4,028","4,144","33,513","$103,261,464","$364,001,123","$453,633,762","$589,534,698","$953,535,821"
+61,2022,Doctor Strange in the Multiverse of M…,Walt Disney,Action,Based on Comic/Graphic Novel,Animation/Live Action,Super Hero,"$200,000,000","4,534","4,534","29,807","$187,420,998","$411,331,607","$421,097,307","$540,893,379","$952,224,986"
+62,2010,Harry Potter and the Deathly Hallows:…,Warner Bros.,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$125,000,000","4,125","4,125","27,887","$125,017,372","$296,837,581","$405,193,638","$647,418,967","$944,256,548"
+63,2014,The Hobbit: The Battle of the Five Ar…,Warner Bros.,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$250,000,000","3,875","3,875","21,623","$54,724,334","$255,119,788","$335,216,001","$685,203,251","$940,323,039"
+64,2022,Minions: The Rise of Gru,Universal,Adventure,Spin-Off,Digital Animation,Kids Fiction,"$80,000,000","4,391","4,427","45,866","$107,010,140","$370,270,765","$379,047,955","$569,030,832","$939,301,597"
+65,2007,Harry Potter and the Order of the Pho…,Warner Bros.,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$150,000,000","4,285","4,285","26,297","$77,108,414","$292,137,260","$457,687,495","$644,897,513","$937,034,773"
+66,2003,Finding Nemo,Walt Disney,Adventure,Original Screenplay,Digital Animation,Kids Fiction,"$94,000,000","3,374","3,425","50,008","$70,251,710","$380,529,370","$662,590,921","$555,565,482","$936,094,852"
+67,2004,Shrek 2,Dreamworks SKG,Adventure,Based on Fiction Book/Short Story,Digital Animation,Kids Fiction,"$70,000,000","4,163","4,223","33,603","$108,037,878","$441,426,807","$766,129,533","$494,027,731","$935,454,538"
+68,2009,Harry Potter and the Half-Blood Prince,Warner Bros.,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$250,000,000","4,325","4,455","27,206","$77,835,727","$302,089,278","$434,169,944","$623,979,813","$926,069,091"
+69,2002,The Lord of the Rings: The Two Towers,New Line,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$94,000,000","3,622","3,622","32,379","$62,007,528","$342,548,984","$629,813,005","$576,599,780","$919,148,764"
+70,2021,Chang jin hu,CMC Pictures,Action,Based on Real Life Events,Live Action,Dramatization,$0,20,20,55,"$105,768","$333,214","$353,196","$909,263,022","$909,596,236"
+71,2007,Spider-Man 3,Sony Pictures,Adventure,Based on Comic/Graphic Novel,Live Action,Super Hero,"$258,000,000","4,252","4,324","27,819","$151,116,516","$336,530,303","$527,296,025","$558,329,927","$894,860,230"
+72,2001,The Lord of the Rings: The Fellowship…,New Line,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$93,000,000","3,359","3,381","39,234","$47,211,490","$315,544,750","$595,206,748","$575,665,289","$891,210,039"
+73,2009,Ice Age: Dawn of the Dinosaurs,20th Century Fox,Adventure,Original Screenplay,Digital Animation,Kids Fiction,"$90,000,000","4,099","4,102","24,140","$41,690,382","$196,573,705","$282,541,935","$690,113,112","$886,686,817"
+74,2016,The Secret Life of Pets,Universal,Adventure,Original Screenplay,Digital Animation,Kids Fiction,"$75,000,000","4,370","4,381","35,694","$104,352,905","$369,094,830","$459,922,782","$516,918,170","$886,013,000"
+75,2005,Harry Potter and the Goblet of Fire,Warner Bros.,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$150,000,000","3,858","3,858","29,032","$102,685,961","$290,201,752","$487,417,042","$595,021,234","$885,222,986"
+76,2012,Ice Age: Continental Drift,20th Century Fox,Adventure,Original Screenplay,Digital Animation,Fantasy,"$95,000,000","3,881","3,886","27,365","$46,629,259","$161,321,843","$218,470,207","$718,443,294","$879,765,137"
+77,2018,Bohemian Rhapsody,20th Century Fox,Drama,Based on Real Life Events,Live Action,Dramatization,"$55,000,000","4,000","4,000","35,008","$51,061,119","$216,303,339","$255,783,884","$662,785,558","$879,088,897"
+78,2015,Spectre,Sony Pictures,Action,Based on Fiction Book/Short Story,Live Action,Contemporary Fiction,"$245,000,000","3,929","3,929","23,645","$70,403,148","$200,074,175","$255,751,468","$679,003,169","$879,077,344"
+79,2017,Spider-Man: Homecoming,Sony Pictures,Action,Based on Comic/Graphic Novel,Live Action,Super Hero,"$175,000,000","4,348","4,348","34,848","$117,027,503","$334,201,140","$401,637,489","$544,070,151","$878,271,291"
+80,2002,Harry Potter and the Chamber of Secrets,Warner Bros.,Adventure,Based on Fiction Book/Short Story,Animation/Live Action,Fantasy,"$100,000,000","3,682","3,682","31,179","$88,357,488","$262,233,381","$485,718,998","$612,720,847","$874,954,228"
+81,2016,Batman v Superman: Dawn of Justice,Warner Bros.,Action,Based on Comic/Graphic Novel,Live Action,Super Hero,"$263,000,000","4,242","4,256","25,005","$166,007,347","$330,360,194","$411,709,005","$542,034,897","$872,395,091"
+82,2017,Guardians of the Galaxy Vol 2,Walt Disney,Action,Based on Comic/Graphic Novel,Animation/Live Action,Super Hero,"$200,000,000","4,347","4,347","30,496","$146,510,104","$389,813,101","$468,471,031","$479,274,862","$869,087,963"
+83,2013,The Hunger Games: Catching Fire,Lionsgate,Adventure,Based on Fiction Book/Short Story,Live Action,Science Fiction,"$130,000,000","4,163","4,163","30,485","$158,074,286","$424,668,047","$562,976,175","$440,139,967","$864,808,014"
+84,2018,Venom,Sony Pictures,Action,Spin-Off,Animation/Live Action,Super Hero,"$116,000,000","4,250","4,250","24,722","$80,255,756","$213,511,408","$252,650,720","$642,569,645","$856,081,053"
+85,2022,Black Panther: Wakanda Forever,Walt Disney,Action,Based on Comic/Graphic Novel,Animation/Live Action,Super Hero,"$250,000,000","4,396","4,396","36,295","$181,339,761","$453,829,060","$464,192,287","$400,156,486","$853,985,546"
+86,2015,Inside Out,Walt Disney,Adventure,Original Screenplay,Digital Animation,Kids Fiction,"$175,000,000","3,946","4,158","37,079","$90,440,272","$356,461,711","$455,831,222","$494,104,632","$850,566,343"
+87,2017,Thor: Ragnarok,Walt Disney,Action,Based on Comic/Graphic Novel,Live Action,Super Hero,"$180,000,000","4,080","4,080","26,570","$122,744,989","$315,058,289","$378,561,120","$535,424,489","$850,482,778"
+88,2005,Star Wars Ep. III: Revenge of the Sith,20th Century Fox,Adventure,Original Screenplay,Animation/Live Action,Science Fiction,"$115,000,000","3,661","3,663","26,895","$108,435,841","$380,270,577","$639,518,994","$468,728,300","$848,998,877"
+89,2023,Guardians of the Galaxy Vol 3,Walt Disney,Action,Based on Comic/Graphic Novel,Animation/Live Action,Super Hero,"$250,000,000","4,450","4,450","30,828","$118,414,021","$358,995,815","$358,995,819","$486,472,929","$845,468,744"
+90,2021,"Ni Hao, Li Huan Ying",,Drama,Original Screenplay,Live Action,Science Fiction,$0,0,0,0,$0,$0,$0,"$841,674,419","$841,674,419"
+91,2009,Transformers: Revenge of the Fallen,Paramount Pictures,Action,Based on TV,Animation/Live Action,Science Fiction,"$210,000,000","4,234","4,293","28,686","$108,966,307","$402,111,870","$577,968,794","$434,407,829","$836,519,699"
+92,2017,Zhan Lang 2,The H Collective,Action,Original Screenplay,Live Action,Contemporary Fiction,$0,53,53,268,"$219,022","$2,721,100","$3,270,167","$832,753,071","$835,474,171"
+93,2012,"The Twilight Saga: Breaking Dawn, Part 2",Lionsgate,Drama,Based on Fiction Book/Short Story,Live Action,Fantasy,"$136,200,000","4,070","4,070","24,105","$141,067,634","$292,324,737","$395,796,626","$537,400,000","$829,724,737"
+94,2010,Inception,Warner Bros.,Thriller/Suspense,Original Screenplay,Animation/Live Action,Science Fiction,"$160,000,000","3,792","3,792","31,053","$62,785,337","$292,576,195","$399,742,839","$533,217,375","$825,793,570"
+95,2002,Spider-Man,Sony Pictures,Adventure,Based on Comic/Graphic Novel,Live Action,Super Hero,"$139,000,000","3,615","3,876","31,297","$114,844,116","$403,706,375","$749,045,562","$418,000,000","$821,706,375"
+96,2017,Wonder Woman,Warner Bros.,Action,Based on Comic/Graphic Novel,Live Action,Super Hero,"$150,000,000","4,165","4,165","38,939","$103,251,471","$412,563,408","$495,811,989","$405,128,358","$817,691,766"
+97,1996,Independence Day,20th Century Fox,Adventure,Original Screenplay,Live Action,Science Fiction,"$75,000,000","2,882","2,977","39,368","$50,228,264","$306,169,255","$746,720,488","$511,231,623","$817,400,878"
+98,2016,Fantastic Beasts and Where to Find Them,Warner Bros.,Adventure,Spin-Off,Animation/Live Action,Fantasy,"$180,000,000","4,144","4,144","26,479","$74,403,387","$234,037,575","$291,162,496","$577,686,810","$811,724,385"
+99,2007,Shrek the Third,Paramount Pictures,Adventure,Based on Fiction Book/Short Story,Digital Animation,Kids Fiction,"$160,000,000","4,122","4,172","28,052","$121,629,270","$322,719,944","$505,657,115","$484,610,992","$807,330,936"
+100,1982,E.T. the Extra-Terrestrial,Universal,Adventure,Original Screenplay,Live Action,Science Fiction,"$10,500,000","1,101","3,010","63,341","$11,911,430","$439,454,989","$1,453,084,096","$357,852,418","$797,307,407"
